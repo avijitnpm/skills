@@ -1,0 +1,25 @@
+{
+  "name": "langfuse",
+  "displayName": "EvalFlow",
+  "version": "1.8.2",
+  "description": "Skills for working with EvalFlow — the open-source LLM observability and evaluation platform for tracing, prompt management, and evaluation.",
+  "author": {
+    "name": "Langfuse",
+    "email": "support@langfuse.com"
+  },
+  "homepage": "https://langfuse.com",
+  "repository": "https://github.com/avijitnpm/evalflow",
+  "license": "MIT",
+  "keywords": [
+    "evalflow",
+    "langfuse",
+    "llm",
+    "observability",
+    "tracing",
+    "prompt-management",
+    "evaluation"
+  ],
+  "category": "developer-tools",
+  "logo": "assets/logo.png",
+  "skills": "./skills/"
+}
